@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" viewBox="0 0 200 50">
+  <rect width="200" height="50" rx="10" fill="#012b5d"/>
+  <rect x="16" y="11" width="20" height="22" rx="3" fill="#ff7a1a"/>
+  <path d="M19 16c0-4 2-7 7-7s7 3 7 7" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="22" cy="18" r="1.4" fill="#ffffff"/>
+  <circle cx="30" cy="18" r="1.4" fill="#ffffff"/>
+  <text x="52" y="20" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">
+    Shop
+  </text>
+  <text x="52" y="35" fill="#ffbd4a" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">
+    Ease
+  </text>
+</svg>
